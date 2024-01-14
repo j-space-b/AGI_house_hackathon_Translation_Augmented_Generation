@@ -8,5 +8,5 @@ We fine-tuned Mixtral on a question set in Hindi and Spanish to compare the resu
 For RAG, 0% accuracy for Hindi, 50% accuracy for Spanish, English being a baseline that we presume is higher.  Finetuning results will be part of demo.
 
 ### Issues we encountered:
-Internet issues, recent OpenAI model deprecations, the popularity of Mixtral on Hugging Face (kept timing out for RAG) and time for fine-tuning.
+Internet issues, recent OpenAI model deprecations, the popularity of Mixtral on Hugging Face (kept timing out for RAG) and time for fine-tuning.  Also some great hallucinations in Hindi.
 
